@@ -1,0 +1,3 @@
+[submodule "Assets/Plugins/URP-PlanarReflections"]
+	path = Assets/Plugins/URP-PlanarReflections
+	url = https://github.com/Siesta-Games/URP-PlanarReflections.git
