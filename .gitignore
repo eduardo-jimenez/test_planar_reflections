@@ -42,3 +42,5 @@ UserSettings
 .multitool
 .vsconfig
 com.unity.render-pipelines.gamecore-1.4.0.tgz
+com.unity.inputsystem.gxdk-1.0.2.tgz
+com.unity.microsoft.gdk.tools.xbox-1.0.4.tgz

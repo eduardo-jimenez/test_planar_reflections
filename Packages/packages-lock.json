@@ -64,7 +64,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.inputsystem.gxdk": {
-      "version": "file:C:/Unity/Work/EmpireInDecay/com.unity.inputsystem.gxdk-1.0.2.tgz",
+      "version": "file:../com.unity.inputsystem.gxdk-1.0.2.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {
@@ -77,30 +77,6 @@
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
-    },
-    "com.unity.microsoft.gdk.discovery": {
-      "version": "1.1.0",
-      "depth": 2,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.microsoft.gdk.tools": {
-      "version": "1.4.4",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.microsoft.gdk.discovery": "1.1.0"
-      },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.microsoft.gdk.tools.xbox": {
-      "version": "file:C:/Unity/Work/EmpireInDecay/com.unity.microsoft.gdk.tools.xbox-1.0.4.tgz",
-      "depth": 0,
-      "source": "local-tarball",
-      "dependencies": {
-        "com.unity.microsoft.gdk.tools": "1.4.4"
-      }
     },
     "com.unity.multiplayer.center": {
       "version": "1.0.0",
